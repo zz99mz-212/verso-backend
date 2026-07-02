@@ -2,7 +2,7 @@
   <img src="app/static/images/logo.png" alt="Verso Logo" width="180" />
 </p>
 
-<h1 align="center">Verso-Backend</h1>
+<h1 align="center">Verso-Backend(No Longer Maintained)</h1>
 <h3 align="center">The Sovereign Enterprise Platform</h3>
 
 <p align="center">
@@ -430,7 +430,6 @@ If Verso saves you from the Integration Tax, consider supporting development:
 - ⭐ **Star this repo** — Helps others discover Verso
 - 🐛 **Report issues** — Help us improve
 - 💬 **Share your story** — Tell us how Verso helped your business
-- ☕ **Sponsor** — [GitHub Sponsors](https://github.com/sponsors/versoindustries)
 
 ---
 
